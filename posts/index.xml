@@ -6,10 +6,22 @@
     <description>Recent content in Posts on Moe&#39;s Tech Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Sep 2018 22:51:41 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 01 Oct 2018 22:46:18 +0200</lastBuildDate>
     
 	<atom:link href="https://emoe.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Firefox Quantum Security Plugins</title>
+      <link>https://emoe.github.io/posts/firefox-quantum-security-plugins/</link>
+      <pubDate>Mon, 01 Oct 2018 22:46:18 +0200</pubDate>
+      
+      <guid>https://emoe.github.io/posts/firefox-quantum-security-plugins/</guid>
+      <description>Moin Moin,
+nachdem nun auch in Kali Firefox auf die neue Version &amp;ldquo;Firefox Quantum&amp;rdquo; geupdatet wurde funktionieren dort keine der alten Plugins mehr. Da Firefox nun Ihre Plugins Frameworks komplett umgeschmissen hat und nun nicht mehr XPCOM- und XUL-Schnittstellen nutzt sondern auf WebExtension setzt.
+Ich habe mal nach Ersatz für die von mir benutzten Plugins gesucht und teile diese mal mit euch:
+Cookie Manager: &amp;ldquo;Cookie Quick Manager&amp;rdquo; scheint ganz gut zu sein, besonders funktioniert bei Ihnen die Suche nach einem bestimmten Cookie recht gut.</description>
+    </item>
     
     <item>
       <title>Late to the Party</title>
